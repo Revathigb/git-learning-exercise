@@ -1,0 +1,19 @@
+.typebox {
+  height: 20px;
+  position: relative;
+  border: 2px solid #cdcdcd;
+  border-color: rgba(0, 0, 0, .14);
+  background-color: AliceBlue;
+  ;
+  font-size: 14px;
+}
+
+.btn {
+  font-size: 12px;
+}
+
+.para {
+  font-size: 25px;
+  font-family: serif;
+  font-style: italic bold;
+}
