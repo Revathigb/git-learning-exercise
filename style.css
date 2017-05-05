@@ -4,13 +4,12 @@
   border: 2px solid #cdcdcd;
   border-color: rgba(0, 0, 0, .14);
   background-color: AliceBlue;
+  ;
   font-size: 14px;
 }
 
 .btn {
   font-size: 12px;
-  font-family: sans-serif;
-  border: 4px;
 }
 
 .para {

@@ -1,7 +1,9 @@
 function myFunction() {
 
   $name = document.getElementById('text').value;
+  //  console.log($name)
   document.getElementById('display').innerHTML = $name;
+
 
   if ($name !== '') {
     alert('in if condition');
@@ -12,4 +14,5 @@ function myFunction() {
     document.getElementById('display').innerHTML = $data;
   }
   console.log('inside the function');
+
 }
