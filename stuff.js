@@ -11,5 +11,5 @@ function myFunction() {
     $data = 'Field is empty.please enter the data';
     document.getElementById('display').innerHTML = $data;
   }
-
+  console.log('inside the function');
 }
